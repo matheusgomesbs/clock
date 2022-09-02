@@ -9,7 +9,7 @@ const App = () => {
     <Clock />
     <button>Comprar</button>
     
-    <button>Comprar 2</button>
+    <button id="2">Comprar 2</button>
     </>
   );
 };
