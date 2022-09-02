@@ -8,6 +8,8 @@ const App = () => {
     <>
     <Clock />
     <button>Comprar</button>
+    
+    <button>Comprar</button>
     </>
   );
 };
