@@ -7,9 +7,6 @@ const App = () => {
   return (
     <>
     <Clock />
-    <button>Comprar</button>
-    <br />   
-    <button id="2">Inicializar compra 2</button>
     </>
   );
 };
